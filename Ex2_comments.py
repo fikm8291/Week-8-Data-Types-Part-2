@@ -1,4 +1,4 @@
-"# -------------------------------------------
+# -------------------------------------------
 # Exercise 2: Documentation & System Logic
 # -------------------------------------------
 #
@@ -214,4 +214,4 @@ while choice != "3":
 #    git add Ex2_comments.py
 #    git commit -m "Completed all documentation activities"
 #    git push origin main
-# -------------------------------------------"
+# -------------------------------------------
